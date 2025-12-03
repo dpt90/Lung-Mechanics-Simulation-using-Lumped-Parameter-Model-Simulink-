@@ -54,7 +54,7 @@ The Simulink model consists of:
 
 ###  Model Used
 
-*(Based on your screenshot — simplified description here)*
+
 
 ```
 Pdiaphragm → [Resistances & Compliances] → Paw, PA, Flow → Scope
@@ -148,7 +148,7 @@ Emphysema:
 * Flow waveform becomes flattened
 * Phase lag increases
 
-*(Your attached scope waveform matches the expected sinusoidal outputs.)*
+
 
 ---
 
